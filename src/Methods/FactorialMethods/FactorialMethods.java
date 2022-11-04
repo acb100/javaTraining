@@ -1,4 +1,4 @@
-package FactorialMethods;
+package Methods.FactorialMethods;
 /*Write a program to print the factorial of a number by defining a method named 'Factorial'.
 Factorial of any number n is represented by n! and is equal to 1*2*3*....*(n-1)*n. */
 public class FactorialMethods {
