@@ -1,4 +1,4 @@
-package Marks;
+package Methods.Marks;
 
 import java.util.Scanner;
 
